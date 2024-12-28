@@ -1,0 +1,16 @@
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/job/JobController.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/company/CompanyService.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/job/JobRepository.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/job/impl/JobServiceImpl.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/reviews/ReviewsRepository.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/reviews/Reviews.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/JobBrowserApplication.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/reviews/ReviewsController.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/reviews/impl/ReviewsServiceImpl.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/company/CompanyController.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/company/imp/CompanyServiceImpl.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/reviews/ReviewsService.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/company/Company.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/job/JobService.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/company/CompanyRepository.java
+/Users/tanyayadav/Downloads/JobBrowser/src/main/java/com/tanya/JobBrowser/job/Job.java
